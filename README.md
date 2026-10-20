@@ -27,22 +27,31 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 <details>
   <summary>
     <h3>Backend Development</h3>
+  </summary>
   <p>
     <img src="https://skillicons.dev/icons?i=py,nodejs,express,java,spring,php,postgres,redis,mongodb,mysql,sqlite&per=6" alt="Backend Stack" />
   </p>
 </details>
 
-### DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle&per=8" alt="DevOps Stack" />
-</p>
+<details>
+  <summary>
+    <h3>DevOps & Tools</h3>
+  </summary>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle&per=8" alt="DevOps Stack" />
+  </p>
+</details>
 
-### Project Management & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
-</p>
+<details>
+  <summary>
+    <h3>Project Management & Collaboration</h3>
+  </summary>
+  <p>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  </p>
+</details>
 
 ## 📊 GitHub Stats
 
