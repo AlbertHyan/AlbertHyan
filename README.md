@@ -16,16 +16,21 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 ## 🛠️ Tech Stack
 
 <details>
-<summary><b>Frontend Development</b></summary>  
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,mui,redux,figma,illustrator&per=6" alt="Frontend Stack" />
-</p>
-<details>
+  <summary>
+    <h3>Frontend Development</h3>
+  </summary>  
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,mui,redux,figma,illustrator&per=6" alt="Frontend Stack" />
+  </p>
+</details>
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,java,spring,php,postgres,redis,mongodb,mysql,sqlite&per=6" alt="Backend Stack" />
-</p>
+<details>
+  <summary>
+    <h3>Backend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,nodejs,express,java,spring,php,postgres,redis,mongodb,mysql,sqlite&per=6" alt="Backend Stack" />
+  </p>
+</details>
 
 ### DevOps & Tools
 <p>
