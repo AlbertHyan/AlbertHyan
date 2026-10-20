@@ -10,12 +10,8 @@
   </a>
 </p> -->
 
----
-
 ## 🚀 About Me
 I am an experienced Full-Stack Engineer specializing in building distributed, scalable, and high-performance server-side applications and dynamic user interfaces. Passionate about writing clean code, microservices architecture, and modern web ecosystems using **Java, Python (FastAPI),** and **React/Next.js**.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -33,8 +29,6 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle&per=8" alt="DevOps Stack" />
 </p>
-
----
 
 ## 📊 GitHub Stats
 
