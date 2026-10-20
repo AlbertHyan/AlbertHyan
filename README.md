@@ -1,33 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Albert</h1>
+<h3 align="center">Full-Stack Engineer | Scalable Backend & Frontend Systems</h3>
 
-## Tech Stack
+<!-- <p align="center">
+  <a href="https://linkedin.com/in/..." target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/..." target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</p> -->
+
+---
+
+## 🚀 About Me
+I am an experienced Full-Stack Engineer specializing in building distributed, scalable, and high-performance server-side applications and dynamic user interfaces. Passionate about writing clean code, microservices architecture, and modern web ecosystems using **Java, Python (FastAPI),** and **React/Next.js**.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,mui,redux,figma,illustrator&per=6" alt="Frontend Development" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,mui,redux,figma,illustrator&per=6" alt="Frontend Stack" />
 </p>
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=py,nodejs,express,java,spring,php,postgres,redis,mongodb,mysql,sqlite&per=6" alt="Backend Development" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,express,java,spring,php,postgres,redis,mongodb,mysql,sqlite&per=6" alt="Backend Stack" />
 </p>
 
 ### DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle,jira,trello,md,slack&per=8" alt="DevOps & Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle&per=8" alt="DevOps Stack" />
 </p>
 
-<!--
-**TheAIbert/TheAIbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertHyan&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertHyan&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Languages" />
+</p>
