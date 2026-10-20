@@ -38,10 +38,10 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlbertHyan&show_icons=true&theme=radical&hide_border=true&bg_color=1d1f21" alt="GitHub Stats" />
-</p>
+</p> -->
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertHyan&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Languages" />
 </p>
