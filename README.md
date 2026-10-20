@@ -15,10 +15,12 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+<details>
+<summary><b>Frontend Development</b></summary>  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,mui,redux,figma,illustrator&per=6" alt="Frontend Stack" />
 </p>
+<details>
 
 ### Backend Development
 <p>
@@ -28,6 +30,13 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
 ### DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,k8s,jenkins,nginx,aws,linux,bash,vercel,netlify,neovim,pnpm,npm,gradle&per=8" alt="DevOps Stack" />
+</p>
+
+### Project Management & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
 </p>
 
 ## 📊 GitHub Stats
