@@ -44,7 +44,7 @@ I am an experienced Full-Stack Engineer specializing in building distributed, sc
   </p>
 </details>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertHyan&layout=compact&theme=radical&hide_border=true&bg_color=1d1f21" alt="Top Languages" />
